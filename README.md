@@ -40,7 +40,9 @@ Claude API, MCP, and multi-agent orchestration
 </tr>
 </table>
 <br />
+<div align="center">
 ![snake](https://raw.githubusercontent.com/hegdesumanth/hegdesumanth/output/dist/snake-dark.svg)
+</div>
 <br/>
 
 ## ✦ Tech Stack
