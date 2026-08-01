@@ -44,7 +44,7 @@ Claude API, MCP, and multi-agent orchestration
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/hegdesumanth/hegdesumanth/output/dist/snake-dark.svg)
+![snake](https://raw.githubusercontent.com/hegdesumanth/hegdesumanth/output/snake-dark.svg)
 
 </div>
 
